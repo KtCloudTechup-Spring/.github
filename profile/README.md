@@ -116,7 +116,7 @@
 ## 7. 문서 자료
 
 - 📄 **프로젝트 계획서**  
-  👉 [프로젝트 계획서 바로가기](링크_추가_예정)
+  👉 [프로젝트 계획서 바로가기](https://file.notion.so/f/f/00e9e3e3-35cc-815b-a12e-0003086879df/6e5f67c4-bb68-4166-9eab-35fd1b87d13a/Spring_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B3%84%ED%9A%8D%EC%84%9C.pdf?table=block&id=2bd9e3e3-35cc-80e3-b729-d0eb39a235f4&spaceId=00e9e3e3-35cc-815b-a12e-0003086879df&expirationTimestamp=1767780000000&signature=6sngT-uTNCkgEQ-MBdOQv9vaVSQumRYSrwLHDGSKjAM&downloadName=%5BSpring%5D+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
 
 - 📄 **중간 발표 자료**  
   👉 [중간 발표 자료 바로가기](링크_추가_예정)
