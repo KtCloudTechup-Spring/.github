@@ -72,8 +72,10 @@
 
 | 이름 | 역할 |
 |------|------|
-| 김민기 | Backend 개발, WebSocket, Redis, AWS Infra |
-| (추가 가능) | Frontend / Design |
+| 김민기 | Backend |
+| 최우수 | AWS Infra |
+| 황시연 | Frontend / Backend |
+| 최태웅 | Frontend |
 
 ---
 
