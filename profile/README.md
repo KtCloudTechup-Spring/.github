@@ -122,7 +122,7 @@
   👉 [중간 발표 자료 바로가기](https://file.notion.so/f/f/00e9e3e3-35cc-815b-a12e-0003086879df/748bfb39-4eff-44d1-80e0-0f7497015ad0/Spring-_-%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf?table=block&id=2bd9e3e3-35cc-80e3-b729-d0eb39a235f4&spaceId=00e9e3e3-35cc-815b-a12e-0003086879df&expirationTimestamp=1767780000000&signature=nvN9WcpS8M2nZ2hOFqYJNOVmxZEhPCNOg43Y3gef6-Q&downloadName=Spring-_-%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
 
 - 📄 **최종 발표 자료**  
-  👉 [최종 발표 자료 바로가기](링크_추가_예정)
+  👉 [최종 발표 자료 바로가기](https://file.notion.so/f/f/00e9e3e3-35cc-815b-a12e-0003086879df/fa33fcf4-321f-496e-a12a-16823c8de38d/Spring-_-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf?table=block&id=2bd9e3e3-35cc-80e3-b729-d0eb39a235f4&spaceId=00e9e3e3-35cc-815b-a12e-0003086879df&expirationTimestamp=1767787200000&signature=J84E1MKOmnrMTQYVF_MKm-EmEKMi-ZicVh9Bm6XaHsE&downloadName=Spring-_-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
 
 - 📊 **ERD**  
 <img width="898" height="747" alt="techup_erd" src="https://github.com/user-attachments/assets/51c60a0a-6870-4425-b690-27f3b4a79cd3" />
