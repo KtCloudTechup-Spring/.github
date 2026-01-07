@@ -132,8 +132,8 @@
 
 
 - 📼 **시연 영상**  
-  👉 [시연 영상 바로가기](링크_추가_예정)
-
+  👉 [시연 영상_1 바로가기](https://www.youtube.com/watch?v=GC9amu1CNZg)
+  👉 [시연 영상_2 바로가기](https://www.youtube.com/watch?v=AZ_Y1cvZjeM)
 ---
 
 ## 8. 실행 가이드
