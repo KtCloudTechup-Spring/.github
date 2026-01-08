@@ -149,7 +149,7 @@
 
 #  ✅ Frontend 실행
 npm install
-npm run dev
+npm run start
 
 # ✅ Redis 실행(Docker)
 docker run -d -p 6379:6379 redis
